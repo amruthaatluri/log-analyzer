@@ -1,3 +1,5 @@
+https://roadmap.sh/projects/nginx-log-analyser
+
 # log-analyzer
 This script analyzes a log file and provides insights like the top IP addresses, paths, status codes, and user agents.
 
